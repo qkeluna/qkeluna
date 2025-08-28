@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm Frederick Luna (qkeluna)
+# 👋 Hey there! I'm Erick Luna (qkeluna)
 
 ### 🚀 Full Stack Team Lead | 🤖 AI Engineer | 🎨 UI/UX Designer | 📱 Web & Mobile App Developer
 
